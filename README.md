@@ -1,2 +1,4 @@
 # projekt_informatyka_2026_27
-Projekt
+
+Autor: Tomasz Rudner
+Laboratorium informatyki 2026/27
